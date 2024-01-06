@@ -180,7 +180,7 @@ let arrryOfitems = [
   "HIGH CARD",
   "Fumetsu no Anata e S01+S02",
   "Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life",
-  "Kaguya-sama wa Kokurasetai",
+  "Kaguya-sama wa Kokurasetai S02+S03",
 ];
 
 let container = document.createElement("div");
