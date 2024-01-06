@@ -116,7 +116,7 @@ let arrryOfitems = [
   "Goblin Slayer",
   "Good Night World",
   "Pluto",
-  "Shingeki no Kyojin S04",
+  "Shingeki no Kyojin S1-S04",
   "Baki.Hanma",
   "Bungo Stray Dogs",
   "Shiguang Dailiren",
@@ -180,7 +180,7 @@ let arrryOfitems = [
   "HIGH CARD",
   "Fumetsu no Anata e S01+S02",
   "Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life",
-  "Kaguya-sama wa Kokurasetai S02+S03",
+  "Kaguya-sama wa Kokurasetai","Ai no Utagoe o Kikasete","Natsu e no Tunnel, Sayonara no Deguchi"
 ];
 
 let container = document.createElement("div");
